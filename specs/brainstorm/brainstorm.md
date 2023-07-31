@@ -10,7 +10,9 @@
 
 ### UI
 
-[userInterface](userInterface.jpg)
+[firstPage](LFfirstScreenDesign.jpg)
+
+[secondPage](LFsecondScreenDesign.jpg)
 
 ## Stack
 
